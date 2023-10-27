@@ -1,0 +1,15 @@
+A list of common plugin/module base addresses and ranges. Pulled this information from xextool, hopefully it's accurate.
+
+Module		Base Address	Image Size	End Address
+-----------------------------------------------------------
+xbdm.xex	0x91000000	0x1F000		0x9101F000
+RPC.xex		0x91C00000	0x9000		0x91C09000
+JRPC2.xex	0x91900000	0x2C000		0x9192C000
+xbGuard.xex	0x90400000	0xBE000		0x904BE000
+Proto.xex	0x91850000	0x79000		0x918C9000
+Teapot.xex	0x90E00000	0x98000		0x90E98000
+Cipher.xex	0x90900000	0x24000		0x90924000
+xbOnline.xex	0x90D90000	0x52000		0x90DE2000
+Tethered.xex	0x90E00000	0x61000		0x90E61000
+Nfinite.xex	0x90900000	0x57000		0x90957000
+Shield.xex	0x90430000	0x116000	0x90546000
