@@ -1,2 +1,2 @@
 # Xenon-RE
-Xbox 365 (Xenon) reverse engineering notes
+Xbox 360 (Xenon) reverse engineering notes
